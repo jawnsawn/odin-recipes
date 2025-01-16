@@ -1,9 +1,18 @@
 /* style.css */
 h1 {
-    color: white;
-    background-color: black;
+    color: #ffffff;
+    background-color: #008000;
+    font-size: 48px;
+    font-family: 'Times New Roman', sans-serif;
+    text-align: center;
 }
 
 p {
-    color: black;
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+button {
+    background-color: #ffebcd;
 }
